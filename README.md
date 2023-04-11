@@ -2,7 +2,7 @@
 ## My name is Júlia Marçal Bomfá and I'm a fullstack developer from Brasil
 
 - 🔭 Currently working with: PHP, javascript, node.js and SQL
-- 🌱 Currently learing: react native, flutter and C#
+- 🌱 Currently learing: react native, flutter, C# and Swift
 - 📫 how to get in contact with me: https://www.linkedin.com/in/j%C3%BAlia-mar%C3%A7al-bomf%C3%A1-203558211/
 - 😄 Pronouns: she/her
 
